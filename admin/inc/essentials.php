@@ -20,9 +20,9 @@ define('USERS_FOLDER', 'users/');
 
 // sendgrid api key
 
-define('SENDGRID_API_KEY', "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");
-define('SENDGRID_EMAIL', "bpj221210344@student.kptm.edu.my");
-define('SENDGRID_NAME', "SuperMal");
+define('SENDGRID_API_KEY', "");
+define('SENDGRID_EMAIL', "");
+define('SENDGRID_NAME', "");
 
 
 
